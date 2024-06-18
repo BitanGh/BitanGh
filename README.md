@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I am Bitan Kr. Ghsoh
+
+<a href="https://app.daily.dev/bitankrghosh"><img src="https://api.daily.dev/devcards/v2/SzUCPEnj2ZZ319FrJC4q6.png?type=default&r=mjw" width="356" alt="Bitan Kumar Ghosh's Dev Card"/></a>
 
 <!--
 **BitanGh/BitanGh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
