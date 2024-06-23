@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bitan Kr. Ghosh</h1>
 
-<a href="https://app.daily.dev/bitankrghosh"><img src="https://api.daily.dev/devcards/v2/SzUCPEnj2ZZ319FrJC4q6.png?type=default&r=mjw" width="356" alt="Bitan Kumar Ghosh's Dev Card"/></a>
 
 
 <h3 align="center">A passionate coder of IEM(Institute of Engineering and Management)</h3>
